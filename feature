@@ -1,2 +1,1 @@
-feature3 
-new line
+feature3
